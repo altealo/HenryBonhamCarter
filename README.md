@@ -1,4 +1,5 @@
 # Henry/Harry Bonham-Carter connections
+Connections with other alters in the Florence Nightingale egonet.
 | Alter  | Reference|
 | ------------- |------------- |
 | [Hilary Bonham-Carter](https://github.com/altealo/HilaryBonhamCarter/blob/master/README.md)  |[Bostridge, M. *Florence Nightingale: The woman and her legend.*](https://books.google.co.uk/books?id=OsCiBgAAQBAJ&lpg=PR334&pg=PP1#v=onepage&q&f=false)|
